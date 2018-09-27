@@ -1,5 +1,5 @@
 {
-    "name": "multidots/zf3-rest-api",
+    "name": "david-magebinary/zf3-rest-api",
     "description": "Zend Framework 3 module to build REST APIs",
     "type": "library",
     "license": "MIT",
